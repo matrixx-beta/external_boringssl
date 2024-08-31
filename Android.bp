@@ -897,6 +897,7 @@ rust_defaults {
         "//external/rust/android-crates-io/crates/tokio-openssl",
         "//system/keymint/boringssl",
         "//system/security/prng_seeder",
+        "//system/security/keystore2",
     ],
     srcs: [
         "src/rust/bssl-sys/src/lib.rs",
